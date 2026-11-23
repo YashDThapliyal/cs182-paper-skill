@@ -24,6 +24,8 @@ Follows the [Agent Skills](https://agentskills.io) open standard, so it works in
 - AI-use appendix
 - V1 in-progress markers vs. V2/final review responses
 
+See [EXAMPLE.md](EXAMPLE.md) for a sample run from start to finish.
+
 Example: `Use the 182-clear-research-paper skill to review my V1 draft in report.pdf.`
 
 ## Install
